@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import { resolveTypeReferenceDirective } from "typescript";
 import { api } from "../../services/api";
 import { Container } from "./styles";
 
